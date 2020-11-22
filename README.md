@@ -13,13 +13,8 @@ This paper proposes a deep neural architecture, PlaneR-CNN, that detects arbitra
 For more details, please refer to our [paper](https://arxiv.org/pdf/1812.04072.pdf) and [video](https://www.youtube.com/watch?v=d9XfMvVXGwM), or visit [project website](https://research.nvidia.com/publication/2019-06_PlaneRCNN). 
 The code is implemented using PyTorch.
 
-### Project members ###
 
-* [Chen Liu](http://art-programmer.github.io), Washington University in St. Louis
-* [Kihwan Kim](https://research.nvidia.com/person/kihwan-kim), NVIDIA
-* [Jinwei Gu](http://www.gujinwei.org/), SenseTime
-* [Yasutaka Furukawa](http://www.cs.sfu.ca/~furukawa/), Simon Fraser University
-* [Jan Kautz](https://research.nvidia.com/person/jan-kautz), NVIDIA
+
 
 ### License ###
 Copyright (c) 2018 NVIDIA Corp.  All Rights Reserved.
